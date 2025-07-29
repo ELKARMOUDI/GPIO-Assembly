@@ -1,7 +1,7 @@
 # STM32(f411 Nucleo) Bare-Metal GPIO Assembly
 
 
-<img src="https://github.com/user-attachments/assets/8357aef1-34ee-4e35-8a55-f6b5b4e3ceaa" width="600" alt="A503B403-0D77-419F-AD42-10003630A00F">
+<img src="https://github.com/user-attachments/assets/8357aef1-34ee-4e35-8a55-f6b5b4e3ceaa" width="550" alt="A503B403-0D77-419F-AD42-10003630A00F">
 
 ## Description
 Assembly code to control GPIO on STM32f4xx (Cortex-M4) without libraries. Configures PA5 as output and sets it high.
