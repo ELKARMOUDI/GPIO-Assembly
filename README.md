@@ -15,7 +15,6 @@ Assembly code to control GPIO on STM32f4xx (Cortex-M4) without libraries. Config
 - **Reference Manual Compliance**:
   - Addresses/offsets from RM0383 Reference Manual (e.g., `GPIOA_BASE=0x40020000`)
 
-
 ## Hardware
 - **MCU**: STM32F411 (or any Cortex-M4 with same memory map)
 - **Connection**: LED on PA5 (adjust pin in code if needed)
