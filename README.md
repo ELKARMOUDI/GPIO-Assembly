@@ -7,6 +7,7 @@
 ## Description
 Assembly code to control GPIO on STM32f4xx (Cortex-M4) without libraries. Configures PA5 as output and sets it high.
 
+
 ## Key Features
 - **Direct Register Access**:
   - `RCC_AHB1ENR`: Enable GPIOA clock (bit 0)
